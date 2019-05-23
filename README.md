@@ -1,1 +1,1 @@
-# Microblog_Flask
+# Microblog web application made in Flask Framework
